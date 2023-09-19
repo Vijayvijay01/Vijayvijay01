@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - intrested in do an projects by own creative and on frontend✨✨✨✨
 - Now starts with an UI Design ...
-- 
+- Backend - JAVA
+- DataBase - MYSQL
 
 <!---
 Vijayvijay01/Vijayvijay01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
